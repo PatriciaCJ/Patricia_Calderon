@@ -2,6 +2,7 @@
   "name": "clase-1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://PatriciaCJ.io/Patricia_Calderon",
   "dependencies": {
     "@popperjs/core": "^2.9.2",
     "@reduxjs/toolkit": "^1.6.0",
@@ -23,6 +24,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
