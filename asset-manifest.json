@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Patricia_Calderon/static/css/main.1b6c0938.chunk.css",
+    "main.js": "/Patricia_Calderon/static/js/main.56a64f36.chunk.js",
+    "main.js.map": "/Patricia_Calderon/static/js/main.56a64f36.chunk.js.map",
+    "runtime-main.js": "/Patricia_Calderon/static/js/runtime-main.bc9f0d94.js",
+    "runtime-main.js.map": "/Patricia_Calderon/static/js/runtime-main.bc9f0d94.js.map",
+    "static/js/2.d9bc1e2c.chunk.js": "/Patricia_Calderon/static/js/2.d9bc1e2c.chunk.js",
+    "static/js/2.d9bc1e2c.chunk.js.map": "/Patricia_Calderon/static/js/2.d9bc1e2c.chunk.js.map",
+    "index.html": "/Patricia_Calderon/index.html",
+    "static/css/main.1b6c0938.chunk.css.map": "/Patricia_Calderon/static/css/main.1b6c0938.chunk.css.map",
+    "static/js/2.d9bc1e2c.chunk.js.LICENSE.txt": "/Patricia_Calderon/static/js/2.d9bc1e2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc9f0d94.js",
+    "static/js/2.d9bc1e2c.chunk.js",
+    "static/css/main.1b6c0938.chunk.css",
+    "static/js/main.56a64f36.chunk.js"
+  ]
+}
